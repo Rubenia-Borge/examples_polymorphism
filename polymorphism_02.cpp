@@ -2,6 +2,7 @@
 * This is another example of compile-time polymorphism through function overloading.
 * Notice the two functions with the same names and different parameters and definitions.
 * And notice in main the function calls with different arguments.
+* There is no inheritance in this example. Overloading can happen without inheritance.
 */
 #include <iostream>
 using namespace std;
