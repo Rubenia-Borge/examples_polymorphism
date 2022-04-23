@@ -53,6 +53,7 @@ class Printer{
       }
 };
 
+// See that print is called in its three versions with different arguments in the function calls.
 int main() {
   Printer p;
   p.print(22,1);
